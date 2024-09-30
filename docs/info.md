@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Coso mi primer circuito integrado
 
 ## How to test
 
-Explain how to use your project
+Coso mi primer circuito integrado
 
 ## External hardware
 
