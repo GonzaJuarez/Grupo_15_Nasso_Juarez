@@ -17,4 +17,4 @@ Coso mi primer circuito integrado
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Coso mi primer circuito integrado
